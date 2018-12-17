@@ -1,2 +1,2 @@
-# channellstupdater
-Kanalliste verteilen
+# channelistupdater
+Kanalliste verteilen inkl. Picons
