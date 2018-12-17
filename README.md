@@ -1,0 +1,2 @@
+# channellstupdater
+Kanalliste verteilen
