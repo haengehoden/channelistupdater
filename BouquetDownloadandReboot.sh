@@ -2,7 +2,7 @@
 
 ## configuration
 
-URL="https://github.com/haengehoden/channelistupdater/blob/master"
+URL="https://github.com/haengehoden/channelistupdater/blob/master/"
 FILENAME="servicesE2_bc.tar.gz"
 BQ="https://github.com/haengehoden/channelistupdater/blob/master/picon.tar.gz"
 
